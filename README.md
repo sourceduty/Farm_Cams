@@ -16,4 +16,4 @@ Installation time also needs to be considered. Each unit is expected to take rou
 
 [Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
 <br>
-[Comptuer Hardware](https://github.com/sourceduty/Computer_Hardware)
+[Computer Hardware](https://github.com/sourceduty/Computer_Hardware)
