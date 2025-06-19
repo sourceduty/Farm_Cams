@@ -1,4 +1,4 @@
-![Horse Camera](https://github.com/user-attachments/assets/4baa4809-4bf0-4354-9f4c-628e2a4e503e)
+![Horse Cam](https://github.com/user-attachments/assets/a5444b82-53ec-448a-9cf0-bcd14744ab08)
 
 This project presents a rugged, compact surveillance and data acquisition unit, tailored for deployment in remote or outdoor environments. At the heart of the system is a Raspberry Pi single-board computer housed within a weatherproof white plastic junction box. Mounted securely to a wooden utility pole, the enclosure is designed to protect sensitive electronics from the elements while providing easy access through its hinged front door. Inside, the Raspberry Pi is connected to several wires, indicating multiple sensors or communication interfaces. This setup is ideal for applications ranging from environmental monitoring to wildlife observation, where resilience and ease of maintenance are crucial.
 
