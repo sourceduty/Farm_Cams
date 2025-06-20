@@ -14,6 +14,8 @@ Installation time also needs to be considered. Each unit is expected to take rou
 
 #
 
+![No China](https://github.com/user-attachments/assets/34d7975e-65a6-4a34-982c-aa44f61e1827)
+
 [IoT Engineer](https://chatgpt.com/g/g-6736d389b35881909afa90624bb3a6d7-iot-engineer) is specialized at Internet of Things (IoT) engineering, provided structured, expert-level guidance throughout the design and implementation of a multi-camera Raspberry Pi-based video streaming network. It helped by systematically breaking down the problem into hardware, protocol, and software layers, offering protocol selection (RTSP), efficient tool recommendations (like v4l2rtspserver and ffmpeg), and generating complete, ready-to-deploy Python and shell scripts tailored to each device's role. By walking through each Pi’s function—Camera 1 as the source, Camera 2 as a forwarder and streamer, and Com1 as a Flask-based web server—it ensured that components were logically configured and interoperable. The GPT also facilitated user decisions with step-by-step choices, adjusted to technical preferences (like web browser access), and produced modular, scalable code for real-time video display, capture, and gallery management. Its continuous awareness of network, processing, and security concerns helped align the system with best practices, ultimately transforming a conceptual request into a working, efficient IoT video solution.
 
 #
